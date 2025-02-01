@@ -1,0 +1,18 @@
+{
+    "files": [
+        "mainwindow.py",
+        "main_window.ui",
+        "pop_up_dialogs/structural_frame.ui",
+        "pop_up_dialogs/doors.ui",
+        "pop_up_dialogs/exterior_ceiling.ui",
+        "pop_up_dialogs/exterior_wall.ui",
+        "pop_up_dialogs/floor_finish.ui",
+        "pop_up_dialogs/foundations.ui",
+        "pop_up_dialogs/interior_ceiling.ui",
+        "pop_up_dialogs/interior_wall.ui",
+        "pop_up_dialogs/partitions.ui",
+        "pop_up_dialogs/roofing.ui",
+        "pop_up_dialogs/truss.ui",
+        "pop_up_dialogs/windows.ui"
+    ]
+}

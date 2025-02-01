@@ -1,0 +1,90 @@
+{
+  "structural_frame": {
+    "reinforced_concrete_column": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "wood_column": [false, [0.4, 0.6, 0.8, 1, 0.8]],
+    "steel_beam": [false, [1, 0.8, 0.6, 0.4, 0.2]]
+  },
+  "foundations": {
+    "reinforced_concrete_conventional_type": [false, [1, 0.8, 0.6, 0.4, 0.2]]
+  },
+  "roofing": {
+    "g_i_sheets": [false, [0.4, 0.6, 0.8, 1, 0.8]],
+    "long_span": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "concrete_tegula": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "asphalt_shingles": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "none": [false, [0.2, 0.4, 0.6, 0.8, 1]]
+  },
+  "truss": {
+    "steel": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "wooden": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "none": [false, [0.2, 0.4, 0.6, 0.8, 1]]
+  },
+  "interior_ceiling": {
+    "acoustic_board": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "painted_steel_deck": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "concrete_slab_wpaint": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "ordinary_plywood_wpaint": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "ordinary_plywood_wfadedpaint": [false, [0.4, 0.6, 0.8, 1, 0.8]],
+    "none": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "concrete_slab_wopaint": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "ordinary_plywood_wopaint": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "concrete_slab_wfadedpaint": [false, [0.4, 0.6, 0.8, 1, 0.8]]
+  },
+  "exterior_ceiling": {
+    "spandrel": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "concrete_slab_wpaint": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "ordinary_plywood_wpaint": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "ordinary_plywood_wfadedpaint": [false, [0.4, 0.6, 0.8, 1, 0.8]],
+    "none": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "concrete_slab_wopaint": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "ordinary_plywood_wopaint": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "concrete_slab_wfadedpaint": [false, [0.4, 0.6, 0.8, 1, 0.8]]
+  },
+  "interior_wall": {
+    "CHB_w_painted_plastering": [false, [0.8, 1, 0.8, 0.6, 0.4]],
+    "CHB_w_rough_cement": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "CHB_w_synthetic": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "CHB_w_faded_paint_plastering": [false, [0.4, 0.6, 0.8, 1, 0.8]],
+    "tiles": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "deco_stone": [false, [1, 0.8, 0.6, 0.4, 0.2]]
+  },
+  "exterior_wall": {
+    "CHB_w_painted_plastering": [false, [0.8, 1, 0.8, 0.6, 0.4]],
+    "CHB_w_rough_cement": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "CHB_w_synthetic": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "CHB_w_faded_paint_plastering": [false, [0.4, 0.6, 0.8, 1, 0.8]],
+    "tiles": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "deco_stone": [false, [1, 0.8, 0.6, 0.4, 0.2]]
+  },
+  "partitions": {
+    "CHB_w_painted_plastering": [false, [0.8, 1, 0.8, 0.6, 0.4]],
+    "CHB_w_rough_cement": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "CHB_w_synthetic": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "CHB_w_faded_paint_plastering": [false, [0.4, 0.6, 0.8, 1, 0.8]],
+    "tiles": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "deco_stone": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "none": [false, [0.2, 0.4, 0.6, 0.8, 1]]
+  },
+  "windows": {
+    "steel_windows": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "sliding_glass": [false, [0.8, 1, 0.8, 0.6, 0.4]],
+    "jalousie": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "awning_windows": [false, [0.8, 1, 0.8, 0.6, 0.4]],
+    "pvc_windows": [false, [1, 0.8, 0.6, 0.4, 0.2]],
+    "none": [false, [0.2, 0.4, 0.6, 0.8, 1]]
+  },
+  "doors": {
+    "wooden_flush_door": [false, [0.8, 1, 0.8, 0.6, 0.4]],
+    "steel_flush_door": [false, [0.8, 1, 0.8, 0.6, 0.4]],
+    "pvc_door": [false, [0.4, 0.6, 0.8, 1, 0.8]],
+    "sliding_glass": [false, [0.8, 1, 0.8, 0.6, 0.4]]
+  },
+  "floor_finish": {
+    "tiles": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "ordinary_marble": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "wooden_t_and_g": [false, [0.6, 0.8, 1, 0.8, 0.6]],
+    "granite": [false, [1, 0.8, 0.6, 0.4, 0.1]],
+    "plain_cement": [false, [0.2, 0.4, 0.6, 0.8, 1]],
+    "laminated_floor": [false, [0.8, 1, 0.8, 0.6, 0.4]]
+  }
+}

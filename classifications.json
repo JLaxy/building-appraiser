@@ -1,0 +1,12 @@
+{
+  "0": "high",
+  "1": "mid to high",
+  "2": "mid",
+  "3": "low to mid",
+  "4": "low",
+  "high": 25000.0,
+  "mid to high": 22000.0,
+  "mid": 19000.0,
+  "low to mid": 15000.0,
+  "low": 10000.0
+}
